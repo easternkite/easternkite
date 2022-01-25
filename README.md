@@ -1,6 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblucky8649&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
+
+## Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
+## Github stats
 ![blucky8649's github stats](https://github-readme-stats.vercel.app/api?username=blucky8649&show_icons=true)
 <!--
 **blucky8649/blucky8649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
