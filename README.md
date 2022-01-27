@@ -1,7 +1,7 @@
 
 ## Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblucky8649&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* 📬 How to contect me : blucky8649@gmail.com
+* 📬 How to contact me : blucky8649@gmail.com
 * 😙 My personal blog : https://velog.io/@blucky8649
 
 ### 📔 Certification
