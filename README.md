@@ -6,7 +6,7 @@
 * 😙 My personal blog : https://velog.io/@blucky8649
 
 ### 📔 Certification
-* 2021.06.02 **정보처리기사**
+* 2021.06.02 **Engineer Information Processing (정보처리기사)**
 * 2021.06.25 **SQL Developer(SQLD)**
 * 2021.02.07 **TOEIC 840**
 * 2021.04.04 **TOEIC SPEAKING LEVEL 6**
