@@ -4,7 +4,7 @@
 ## Hi there 👋 
 * 📬 How to contact me : blucky8649@gmail.com
 * 😙 My personal blog : https://velog.io/@blucky8649
-* 
+
 ### 🎓 Education
 * Bachelor's degree in **Multimedia Engineering**
 * Expacted Graduation Date **2022. 02**
