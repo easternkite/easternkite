@@ -12,7 +12,7 @@
 
 ### 🙋 Language Skills
 * **Korean** : Native
-* **English** : Intermediate, **TOEIC 840, TOEIC SPEAKING LEVEL 8**
+* **English** : Intermediate, **TOEIC 840, TOEIC SPEAKING LEVEL 6**
 
 ### 📔 Certification
 * 2021.06.02 **Engineer Information Processing**
