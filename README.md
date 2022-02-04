@@ -29,7 +29,7 @@
 ### 👦 Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
 ### 🥇 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blucky8649)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blucky8649)](https://github.com/blucky8649)
 
 ![blucky8649's github stats](https://github-readme-stats.vercel.app/api?username=blucky8649&show_icons=true&theme=gruvbox_light)
 
