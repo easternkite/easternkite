@@ -1,9 +1,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblucky8649&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Hi there 👋 
+## Hi there 👋   
+**Android Native** 앱 개발에 관심이 많습니다.  
+Firebase, Open api를 활용하여 음식 추천 및 식단 기록, 한 줄 일기장 앱을 개발한 경험이 있습니다.  
+그 중, 한 줄 일기장 앱은 갤럭시 스토어에 배포중이며 280명의 고객에게 서비스하고 있습니다. 
+
+
+ 가독성이 좋은 코드를 작성하려고 노력하고 있으며, Java 프로젝트를 Kotlin으로 변환하며 깊이 있는 학습 하고 있습니다.  
+ 또한, Jetpack, 디자인 패턴에 관심이 많으며 MVVM 기반 앱 제작을 목표로 꾸준히 학습중입니다.
+ ***
 * 📬 How to contact me : blucky8649@gmail.com
 * 😙 My personal blog : https://velog.io/@blucky8649
+
+### 📝 Projects
+* [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
+* [롸쳐띵(Write Your Think), 간단한 일상기록 일기장](https://github.com/blucky8649/Write_your_think)
 
 ### 🎓 Education
 * Bachelor's degree in **Multimedia Engineering**
