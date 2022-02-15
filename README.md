@@ -23,8 +23,8 @@ Firebase, Open api를 활용하여 음식 추천 및 식단 기록, 한 줄 일�
 * Cumulative GPA **3.75 / 4.50**
 
 ### 🙋 Language Skills
-* **Korean** : Native
-* **English** : Intermediate, **TOEIC 840, TOEIC SPEAKING LEVEL 6**
+* **Korean**: Native
+* **English**: Intermediate, **TOEIC 840, TOEIC SPEAKING LEVEL 6**
 
 ### 📔 Certification
 * 2021.06.02 **Engineer Information Processing**
@@ -35,8 +35,8 @@ Firebase, Open api를 활용하여 음식 추천 및 식단 기록, 한 줄 일�
 
 ***
 ## 💻 Technical Skills
-* **Strong** : Android (Java), Firebase, SQLite
-* **Knowledgeable** : Android (Kotlin)
+* **Strong**: Android (Java), Firebase, SQLite
+* **Knowledgeable**: Android (Kotlin), Jetpack Compose
 
 ### 👦 Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
