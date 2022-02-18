@@ -36,7 +36,7 @@ Firebase, Open api를 활용하여 음식 추천 및 식단 기록, 한 줄 일�
 ***
 ## 💻 Technical Skills
 * **Strong**: Android (Java, Kotlin), Firebase, SQLite
-* **Knowledgeable**: Jetpack Compose, AAC
+* **Knowledgeable**: Jetpack Compose, AAC, Dagger Hilt(DI), MVVM
 
 ### 👦 Solved.ac
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
