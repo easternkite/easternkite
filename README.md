@@ -32,18 +32,15 @@ Firebase, Open api를 활용하여 음식 추천 및 식단 기록, 한 줄 일�
 * 2021.02.07 **TOEIC 840**
 * 2021.04.04 **TOEIC SPEAKING LEVEL 6**
 
-
 ***
-## 💻 Technical Skills
+## 💻 Skills I have
 * **Strong**: Android (Java, Kotlin), Firebase, SQLite
 * **Knowledgeable**: Jetpack Compose, AAC, Dagger Hilt(DI), MVVM
 
-### 👦 Solved.ac
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)
-### 🥇 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blucky8649)](https://github.com/blucky8649)
+|👦 Solved.ac|🥇 Most Used Languages|
+|------|---|
+|[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blucky8649)](https://github.com/blucky8649)|
 
-![blucky8649's github stats](https://github-readme-stats.vercel.app/api?username=blucky8649&show_icons=true&theme=gruvbox_light)
 
 <!--
 **blucky8649/blucky8649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
