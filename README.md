@@ -12,7 +12,6 @@
 ### 📎Resumé 
 * [![](https://img.shields.io/badge/-📑Resumé-red)](https://programmers.co.kr/pr/blucky4511_4350)
 
-***
 ## 💻 Tech Stack
 ### Use Well  
 
