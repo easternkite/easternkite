@@ -9,8 +9,9 @@
 * [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
 * [롸쳐띵(Write Your Think), 간단한 일상기록 일기장](https://github.com/blucky8649/Write_your_think)
 
-### 📎Resumé 
+### 📎Resumé & Portfolio
 * [![](https://img.shields.io/badge/-📑Resumé-red)](https://programmers.co.kr/pr/blucky4511_4350)
+* [![](https://img.shields.io/badge/-📑Portfolio-purple)](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/production/ResumeAttachment/65765/ANDROID_DEVELOPER.pdf?X-Amz-Expires=3600&X-Amz-Date=20220222T144956Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGGYA7NALKSFWYJA%2F20220222%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=56633a9e9410bb686be900b40845bb0028e9bb190b5ffb3598abb569e900214a)
 
 ## 💻 Tech Stack
 ### Use Well  
