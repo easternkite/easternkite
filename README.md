@@ -15,7 +15,7 @@
 ## 💻 Tech Stack
 ### Use Well  
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7f72ff?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-be3939?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7f72ff?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-be3939?style=flat-square&logo=sqlite&logoColor=white">
 
 ### Studying  
 
