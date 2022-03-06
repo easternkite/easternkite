@@ -7,12 +7,8 @@
 
 ### 📝 Projects I did
 * [MVVM 기반의 영어 뉴스 앱 만들기](https://github.com/blucky8649/MVVMNewsApp)
-* [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
 * [롸쳐띵(Write Your Think), 간단한 일상기록 일기장](https://github.com/blucky8649/Write_your_think)
-
-### 📎Resumé & Portfolio
-* [![](https://img.shields.io/badge/-📑Resumé-red)](https://programmers.co.kr/pr/blucky4511_4350)
-* [![](https://img.shields.io/badge/-📑Portfolio-purple)](https://drive.google.com/file/d/1mSwgNA0tiaITBFHYqUYyPjXAzAoL2ZB1/view?usp=sharing)
+* [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
 
 ## 💻 Tech Stack
 ### Use Well  
