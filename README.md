@@ -5,13 +5,6 @@
 * 📬 How to contact me : blucky8649@gmail.com
 * 😙 My personal blog here: https://velog.io/@blucky8649
 
-### 📝 Projects I did
-* [날씨 앱 만들기](https://github.com/blucky8649/MyWeatherApp)
-* [영화 검색앱 만들기](https://github.com/blucky8649/MyMovieApp)
-* [MVVM 기반의 영어 뉴스 앱 만들기](https://github.com/blucky8649/MVVMNewsApp)
-* [롸쳐띵(Write Your Think), 간단한 일상기록 일기장](https://github.com/blucky8649/Write_your_think)
-* [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
-
 ## 💻 Tech Stack
 ### Use Well  
 
@@ -51,4 +44,12 @@ dsfgy
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
 </p>
+
+
+### 📝 Projects I did
+* [날씨 앱 만들기](https://github.com/blucky8649/MyWeatherApp)
+* [영화 검색앱 만들기](https://github.com/blucky8649/MyMovieApp)
+* [MVVM 기반의 영어 뉴스 앱 만들기](https://github.com/blucky8649/MVVMNewsApp)
+* [롸쳐띵(Write Your Think), 간단한 일상기록 일기장](https://github.com/blucky8649/Write_your_think)
+* [쓰리메이트, 음식 추천 및 식단 기록을 간편하게](https://github.com/blucky8649/ThreeMate)
 -->
