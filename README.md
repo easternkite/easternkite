@@ -4,17 +4,6 @@
 ## Hi there 👋   
 I'm An Android developer based in South Korea with a passion for crafting exceptional user experiences. While my primary focus is native Android development, I am actively exploring the potential of cross-platform technologies to broaden my skillset and reach. Currently, I am immersed in developing a production-ready AI-powered voice conversation application, pushing the boundaries of mobile interaction. I am a firm believer in continuous learning and am always seeking new challenges and opportunities to grow. Feel free to explore my repositories and don't hesitate to reach out if you'd like to discuss potential collaborations or simply connect over our shared passion for code.
 
-## 💻 Tech Stack
-### Use Well  
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7f72ff?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-be3939?style=flat-square&logo=sqlite&logoColor=white">
-
-### Studying  
-
- <img src="https://img.shields.io/badge/Jetpack Compose-4285F?style=flat-square&logo=jetpackcompose&logoColor=white">
-
-
-
 
 
 |👦 Solved.ac|🥇 Most Used Languages|
