@@ -2,7 +2,21 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblucky8649&count_bg=%23FF6565&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Hi there 👋   
-I'm An Android developer based in South Korea with a passion for crafting exceptional user experiences. While my primary focus is native Android development, I am actively exploring the potential of cross-platform technologies to broaden my skillset and reach. Currently, I am immersed in developing a production-ready AI-powered voice conversation application, pushing the boundaries of mobile interaction. I am a firm believer in continuous learning and am always seeking new challenges and opportunities to grow. Feel free to explore my repositories and don't hesitate to reach out if you'd like to discuss potential collaborations or simply connect over our shared passion for code.
+```kotlin
+val easternkite = developer {
+    about {
+        name = "DongYeon-Lee"
+        company = NHN_COMMERCE
+        role = "Android Developer"
+        email = "easternkite7@gmail.com"
+    }
+    tech(KOTLIN, ANDROID, KMP, COMPOSE)
+    links {
+        medium = "easternkite.medium.com"
+        linkedin = "https://www.linkedin.com/in/dongyeon-lee/"
+    }
+}
+```
 
 
 
