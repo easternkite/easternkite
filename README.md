@@ -22,7 +22,7 @@ val easternkite = developer {
 
 |👦 Solved.ac|🥇 Most Used Languages|
 |------|---|
-|[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blucky8649)](https://github.com/blucky8649)|
+|[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blucky8649)](https://solved.ac/blucky8649)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easternkite)](https://github.com/easternkite)|
 
 
 <!--
