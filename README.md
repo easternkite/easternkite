@@ -10,7 +10,7 @@ val easternkite = developer {
     tech(KOTLIN, ANDROID, KMP, COMPOSE)
     links {
         medium = "easternkite.medium.com"
-        linkedin = "https://www.linkedin.com/in/dongyeon-lee/"
+        linkedin = "https://www.linkedin.com/in/easternkite/"
     }
 }
 ```
