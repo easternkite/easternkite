@@ -18,6 +18,7 @@ val easternkite = developer {
 ## Open Source Contribution  
 * [Fix broken internal link in coroutines.md (coroutine builders section)](https://github.com/Kotlin/KEEP/pull/414) in Kotlin/[Keep](https://github.com/Kotlin/KEEP)
 * [Fix shader issue on Non-Android target](https://github.com/droidknights/DroidKnightsApp/pull/441) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
+* [Home > 행사 배치도 카드 > Shader background 추가](https://github.com/droidknights/DroidKnightsApp/pull/467) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
 
 <!--
 **blucky8649/blucky8649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
