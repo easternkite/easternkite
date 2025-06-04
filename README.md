@@ -23,7 +23,7 @@ val easternkite = developer {
 * [Fix shader issue on Non-Android target](https://github.com/droidknights/DroidKnightsApp/pull/441) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
 * [Home > 행사 배치도 카드 > Shader background 추가](https://github.com/droidknights/DroidKnightsApp/pull/467) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
 * [후원 카드 배경 Shader 반영 (EllipticalGlowBackground)](https://github.com/droidknights/DroidKnightsApp/pull/477) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
-
+* [Desktop 타겟에서 창을 다른 모니터로 이동하였을 때 앱이 죽는 이슈 해결 (Koin 상태 문제)](https://github.com/droidknights/DroidKnightsApp/pull/486) in droidknights/[DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/tree/2025/compose-multiplatform)
 <!--
 **blucky8649/blucky8649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 asd
