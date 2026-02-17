@@ -3,7 +3,7 @@
 val easternkite = developer {
     about {
         name = "DongYeon-Lee"
-        company = NHN_COMMERCE
+        company = KAKAO_MOBILITY
         role = "Android Developer"
         email = "easternkite7@gmail.com"
     }
