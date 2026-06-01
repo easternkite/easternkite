@@ -16,6 +16,9 @@ val easternkite = developer {
 ```
 
 ## Open Source Contribution  
+### Circuit
+* [Fix saveable state cleanup issue for popped records](https://github.com/slackhq/circuit/pull/2716) in slackhq/[circuit](https://github.com/slackhq/circuit)
+
 ### Kotlin
 * [Fix broken internal link in coroutines.md (coroutine builders section)](https://github.com/Kotlin/KEEP/pull/414) in Kotlin/[Keep](https://github.com/Kotlin/KEEP)
 
